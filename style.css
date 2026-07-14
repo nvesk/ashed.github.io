@@ -140,7 +140,6 @@ body {
   height: 100%;
   object-fit: cover;
   object-position: center;
-  filter: saturate(0.6);
 }
 
 .hero-bg-overlay {
@@ -148,9 +147,9 @@ body {
   inset: 0;
   background:
     linear-gradient(to bottom,
-      rgba(12,12,14,0.55) 0%,
-      rgba(12,12,14,0.3) 40%,
-      rgba(12,12,14,0.7) 75%,
+      rgba(12,12,14,0.25) 0%,
+      rgba(12,12,14,0.1) 40%,
+      rgba(12,12,14,0.45) 75%,
       rgba(12,12,14,1) 100%);
 }
 
