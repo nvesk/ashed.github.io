@@ -1,53 +1,52 @@
 {
-    "versions": {
-        "1.21.1": {
-            "fabric": [
-                {
-                    "path": "/ashedclient/bundles/generated/performance-1.21.1-fabric.mrpack",
-                    "sha1": "e7c37f78424d6800bba206ba27b2f2a710aad394"
-                }
-            ]
-        },
-        "1.21.11": {
-            "fabric": [
-                {
-                    "path": "/ashedclient/bundles/generated/performance-1.21.11-fabric.mrpack",
-                    "sha1": "75aca9c6c86ef243383df66d5febbffba7252235"
-                }
-            ]
-        },
-        "26.1": {
-            "fabric": [
-                {
-                    "path": "/ashedclient/bundles/generated/performance-26.1-fabric.mrpack",
-                    "sha1": "a03e682b6822e8699af5afbce10c2a4d0e9bc3a8"
-                }
-            ]
-        },
-
-        "26.2": {
-            "fabric": [
-                {
-                    "path": "/ashedclient/bundles/generated/performance-26.2-fabric.mrpack",
-                    "sha1": "295c8f77b7b70a509d806ebe5199124095c59937"
-                }
-            ]
-        },
-        "1.21.4": {
-            "fabric": [
-                {
-                    "path": "/ashedclient/bundles/generated/performance-1.21.4-fabric.mrpack",
-                    "sha1": "cd893cf8097a53fefc88b8cb80e4411630fec24f"
-                }
-            ]
-        },
-        "1.16.5": {
-            "fabric": [
-                {
-                    "path": "/ashedclient/bundles/generated/performance-1.16.5-fabric.mrpack",
-                    "sha1": "7f9ad63ffdf6d15ba473cb2d94715cde1cdcbb5c"
-                }
-            ]
+  "versions": {
+    "1.16.5": {
+      "fabric": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-1.16.5-fabric.mrpack",
+          "sha1": "62e8bb23c8129b0e9005c1ac7a7e21dc59e14543"
         }
+      ]
+    },
+    "1.21.1": {
+      "fabric": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-1.21.1-fabric.mrpack",
+          "sha1": "a2a8ee75b67e3d828f5ce997e9aeb3dc8f247b3a"
+        }
+      ]
+    },
+    "1.21.11": {
+      "fabric": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-1.21.11-fabric.mrpack",
+          "sha1": "b8e9095b6ea4b094a095304e637517a28f562243"
+        }
+      ]
+    },
+    "1.21.4": {
+      "fabric": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-1.21.4-fabric.mrpack",
+          "sha1": "5f6963d2a8c1ed72c6424b816662ed765cffbe62"
+        }
+      ]
+    },
+    "26.1": {
+      "fabric": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-26.1-fabric.mrpack",
+          "sha1": "0b4296ee76115b57e311130841052517889fdb4f"
+        }
+      ]
+    },
+    "26.2": {
+      "fabric": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-26.2-fabric.mrpack",
+          "sha1": "c5e5452f3e4c69afc3eb66d34e016fe0ff1851d5"
+        }
+      ]
     }
+  }
 }
