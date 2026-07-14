@@ -1,0 +1,89 @@
+{
+    "clusters": [
+        {
+            "major_version": 21,
+            "name": "Tricky Trials",
+            "art": "/ashedclient/versions/art/Tricky_Trials.jpg",
+            "long_description": "Minecraft's 1.21 update, known as \"Tricky Trials,\" primarily focuses on combat adventures and tinkering, introducing trial chambers, new copper block variants, a new crafting tool, and a new weapon. It also features new hostile mobs, paintings, and gameplay enhancements.",
+            "tags": [
+                "Tricky Trials"
+            ],
+            "entries": [
+                {
+                    "minor_version": 1,
+                    "loader": "fabric",
+                    "tags": [
+                        "PvP",
+                        "Survival"
+                    ]
+                },
+                {
+                    "minor_version": 4,
+                    "name": "1.21.4 Fabric",
+                    "art": "/ashedclient/versions/art/TheGardenAwakens.png",
+                    "loader": "fabric"
+                },
+                {
+                    "minor_version": 11,
+                    "name": "Mounts of Mayhem",
+                    "art": "/ashedclient/versions/art/Mounts_Mayhem.jpg",
+                    "loader": "fabric",
+                    "tags": [
+                        "PvP",
+                        "Survival"
+                    ]
+                }
+            ]
+        },
+        {
+            "major_version": 26,
+            "name": "Minecraft from 2026",
+            "art": "/ashedclient/versions/art/Tiny_Takeover.jpg",
+            "long_description": "Minecraft's 26.x updates, starting with the release of \"Tiny Takeover\", primarily focuses on mob charm and quality-of-life improvements, overhauling textures and models for every baby mob that previously lacked a unique model. It also features the golden dandelion, nametag crafting, and other gameplay enhancements.",
+            "tags": [
+                "Tiny Takeover"
+            ],
+            "entries": [
+                {
+                    "minor_version": 1,
+                    "name": "Tiny Takeover",
+                    "loader": "fabric",
+                    "tags": [
+                        "PvP",
+                        "Survival"
+                    ]
+                },
+                {
+                    "minor_version": 2,
+                    "name": "Chaos Cubed",
+                    "art": "/ashedclient/versions/art/Chaos_Cubed.jpg",
+                    "loader": "fabric",
+                    "tags": [
+                        "PvP",
+                        "Survival"
+                    ]
+                }
+            ]
+        },
+        {
+            "major_version": 16,
+            "name": "Nether Update",
+            "art": "/ashedclient/versions/art/neterapdejt.png",
+            "long_description": "Minecraft 1.16, the Nether Update, overhauls the Nether biome, adds new blocks, mobs, and items like Netherite.",
+            "tags": [
+                "Nether Update"
+            ],
+            "entries": [
+                {
+                    "minor_version": 5,
+                    "name": "1.16.5 Fabric",
+                    "loader": "fabric",
+                    "tags": [
+                        "PvP",
+                        "Survival"
+                    ]
+                }
+            ]
+        }
+    ]
+}

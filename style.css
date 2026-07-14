@@ -380,7 +380,7 @@ body {
 .screenshot-placeholder {
   aspect-ratio: 16/10;
   border-radius: var(--radius-md);
-  border: 1px dashed rgba(255,255,255,0.12);
+  border: 1px dasheded rgba(255,255,255,0.12);
   background: var(--bg-card);
   overflow: hidden;
   transition: border-color var(--transition), transform var(--transition);
