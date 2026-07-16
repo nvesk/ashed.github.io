@@ -84,6 +84,27 @@
                     ]
                 }
             ]
+        },
+        {
+            "major_version": 8,
+            "name": "Bountiful Update",
+            "art": "/ashedclient/versions/art/grafikaoldveriold.png",
+            "long_description": "Minecraft 1.8.9, the classic version featuring legacy PvP mechanics, excellent mod compatibility, and classic gameplay.",
+            "tags": [
+                "Bountiful Update",
+                "PvP"
+            ],
+            "entries": [
+                {
+                    "minor_version": 9,
+                    "name": "1.8.9 Forge",
+                    "loader": "forge",
+                    "tags": [
+                        "PvP",
+                        "Classic"
+                    ]
+                }
+            ]
         }
     ]
 }

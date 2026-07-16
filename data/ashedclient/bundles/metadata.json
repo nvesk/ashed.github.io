@@ -4,7 +4,7 @@
       "fabric": [
         {
           "path": "/ashedclient/bundles/generated/performance-1.16.5-fabric.mrpack",
-          "sha1": "9c6d4a65685f597fd07cc2ee9015a47253fb79b6"
+          "sha1": "ea6663bef921fee20fa840bf6b5f180b5a21658d"
         }
       ]
     },
@@ -12,7 +12,7 @@
       "fabric": [
         {
           "path": "/ashedclient/bundles/generated/performance-1.21.1-fabric.mrpack",
-          "sha1": "68170a302050f3b76ea0b3f9b927dc256a1aead8"
+          "sha1": "dfb729a94247f23143fdb6d27398c831803e554d"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "fabric": [
         {
           "path": "/ashedclient/bundles/generated/performance-1.21.11-fabric.mrpack",
-          "sha1": "8df410ddfa2b7a932ce91fe6cc56c28243cf1019"
+          "sha1": "93dec266b6a0fb85c73ff95659bceffd5a35854c"
         }
       ]
     },
@@ -28,7 +28,15 @@
       "fabric": [
         {
           "path": "/ashedclient/bundles/generated/performance-1.21.4-fabric.mrpack",
-          "sha1": "fab6ececd3bce857482cc8cd9c3c88c7e3c0901d"
+          "sha1": "77d02cd4fb1be6f5460adaadd77b015d04b12924"
+        }
+      ]
+    },
+    "1.8.9": {
+      "forge": [
+        {
+          "path": "/ashedclient/bundles/generated/performance-1.8.9-forge.mrpack",
+          "sha1": "1c72245978ea1fd579f311fdd4c48be34b9a4ef4"
         }
       ]
     },
@@ -36,7 +44,7 @@
       "fabric": [
         {
           "path": "/ashedclient/bundles/generated/performance-26.1-fabric.mrpack",
-          "sha1": "1d76d7cb439b33adfa89ba0a39a91cb38fa1b85f"
+          "sha1": "08e367f7e4a1e5b41d1b9879f29e1d8bab60fcb6"
         }
       ]
     },
@@ -44,7 +52,7 @@
       "fabric": [
         {
           "path": "/ashedclient/bundles/generated/performance-26.2-fabric.mrpack",
-          "sha1": "d3f68fdf5f31001d5faf15cd3a8b5e58bc0954e0"
+          "sha1": "2d4ee7e3f888ad00f3c0f04588b88584daa67290"
         }
       ]
     }
